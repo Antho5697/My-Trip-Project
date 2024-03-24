@@ -1,6 +1,5 @@
 # My-Trip-Project
 
-# My Trip App
 Final project for the Building AI course
 
 ## Summary
